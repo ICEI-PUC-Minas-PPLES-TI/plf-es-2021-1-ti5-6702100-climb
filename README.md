@@ -7,7 +7,7 @@ Além disso, a solução possui características de sistemas distribuídos como 
 ## Integrantes
 
 - Andrew Costa Silva
-- Arthur Amaral Rocha
+- Arthur Rocha Amaral
 - Gabriel Moreira Chaves
 - Ian Bittencourt Andrade Jacinto
 - João Guilherme Martins Borborema
