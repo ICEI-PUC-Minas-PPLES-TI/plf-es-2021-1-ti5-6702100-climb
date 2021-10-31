@@ -1,0 +1,29 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Climb
+authors:
+  - family-names: Costa Silva
+    given-names: Andrew 
+  - family-names: Rocha Amaral
+    given-names: Arthur 
+  - family-names: Moreira Chaves
+    given-names: Gabriel 
+  - family-names: Bittencourt Andrade Jacinto
+    given-names: Ian 
+  - family-names: Martins Borborema
+    given-names: João Guilherme 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Bastos De Paula
+    given-names: Hugo 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves de Oliveira
+    given-names: Pedro 
+keywords:
+  - Containers
+  - Plataforma de Serviços
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2021-1-ti5-6702100-climb
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2021-06-20
