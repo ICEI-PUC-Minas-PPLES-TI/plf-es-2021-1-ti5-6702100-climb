@@ -22,8 +22,8 @@ Liste os artefatos produzidos, com suas localizaçãoes e descrição do conteú
   * [ATA-2021-05-20.md](atas/ATA-2021-05-20.md) - Ata de alinhamento final Sprint V - parte 02
 
 * `/gerencia`
-  * [declaracao_de_escopo.md](declaracao_de_escopo.md) -  Definição de escopo do projeto;
-  * [EAP.pdf](EAP.pdf) - Diagrama de Estrutura Analítica do Projeto (EAP);
-  * [partes_interessadas.md](partes_interessadas.md) - Registro das Partes Interessadas;
-  * [relatorio_de_encerramento_do_projeto.md](relatorio_de_encerramento_do_projeto.md) - Documento de relatório de encerramento de projeto;
-  * [termo_de_abertura_do_projeto](termo_de_abertura_do_projeto.md) - Termo de encerramento de projeto.
+  * [declaracao_de_escopo.md](gerencia/declaracao_de_escopo.md) -  Definição de escopo do projeto;
+  * [EAP.pdf](gerencia/EAP.pdf) - Diagrama de Estrutura Analítica do Projeto (EAP);
+  * [partes_interessadas.md](gerencia/partes_interessadas.md) - Registro das Partes Interessadas;
+  * [relatorio_de_encerramento_do_projeto.md](gerencia/relatorio_de_encerramento_do_projeto.md) - Documento de relatório de encerramento de projeto;
+  * [termo_de_abertura_do_projeto](gerencia/termo_de_abertura_do_projeto.md) - Termo de encerramento de projeto.
